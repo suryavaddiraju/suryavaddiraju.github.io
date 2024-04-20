@@ -1,7 +1,3 @@
----
-title: "Home - Vaddiraju Code Development"
----
-
 # Welcome to Vaddiraju Code Development Unit
 
 A minimalistic Window to view status of all projects undertaken by the team such that to get overview of related project issues
