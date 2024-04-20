@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://dev.vaddiraju.in/sitemap.xml
