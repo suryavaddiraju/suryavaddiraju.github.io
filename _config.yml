@@ -1,0 +1,2 @@
+google_analytics: G-L0BXR0ZGW7
+exclude: [.gitignore,LICENSE,.github/,_config.yml]
