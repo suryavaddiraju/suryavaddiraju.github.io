@@ -1,5 +1,5 @@
 google_analytics: G-L0BXR0ZGW7
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme
 exclude: [.gitignore,LICENSE,.github/,_config.yml]
