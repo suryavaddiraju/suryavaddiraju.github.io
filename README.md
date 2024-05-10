@@ -1,6 +1,4 @@
----
-title: Home
----
+# Home
 
 A Single Window to view status of all projects undertaken by the team such that to get overview of related project issues
 
