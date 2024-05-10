@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Contact - Vaddiraju Code Development"
+title: "Contact"
 permalink: /contact
 ---
-
-# Contact
 
 Below are the contact details of Vaddiraju Code Development Unit Team
 

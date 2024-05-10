@@ -1,6 +1,4 @@
-# Welcome to Vaddiraju Code Development Unit
-
-A minimalistic Window to view status of all projects undertaken by the team such that to get overview of related project issues
+A Single Window to view status of all projects undertaken by the team such that to get overview of related project issues
 
 ---
 
@@ -11,11 +9,13 @@ A minimalistic Window to view status of all projects undertaken by the team such
     - [NPM Package](https://www.npmjs.com/package/irctc-api)
     - [Documentation](https://dev.vaddiraju.in/irctc-api/api_reference)
     - [Brief](https://dev.vaddiraju.in/#irctc-api)
+    - [Project Home](https://dev.vaddiraju.in/irctc-api)
 - sesparser
     - [Code Repository](https://github.com/suryavaddiraju/sesparser)
     - [PyPi Package](https://pypi.org/project/sesparser/)
     - [Documentation](https://sesparser.readthedocs.io/en/latest/)
     - [Brief](https://dev.vaddiraju.in/#sesparser)
+    - [Project Home](https://dev.vaddiraju.in/irctc-api)
 
 ---
 
@@ -24,10 +24,10 @@ A minimalistic Window to view status of all projects undertaken by the team such
 A NodeJs excluive package built on top of IRCTC Website APIs to book train tickets, managing user profile faster and simpler.
 
 [![NPM Downloads](https://img.shields.io/npm/dw/irctc-api)](https://www.npmjs.com/package/irctc-api)
-[![Node Current](https://img.shields.io/node/v/irctc-api)](https://www.npmjs.com/package/irctc-api)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuryavaddiraju%2Firctc-api%2Fmain%2Fpackage.json&query=engines.node&label=node)](https://www.npmjs.com/package/irctc-api)
 [![Contributors](https://img.shields.io/github/contributors/suryavaddiraju/irctc-api.svg)](https://github.com/suryavaddiraju/irctc-api/graphs/contributors)
 [![GitHub License](https://img.shields.io/github/license/suryavaddiraju/irctc-api)](http://www.apache.org/licenses/LICENSE-2.0)
-[![NPM Version](https://img.shields.io/npm/v/irctc-api)](https://www.npmjs.com/package/irctc-api)
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsuryavaddiraju%2Firctc-api%2Fmain%2Fpackage.json&query=version&label=version)](https://www.npmjs.com/package/irctc-api)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/suryavaddiraju/irctc-api)](https://github.com/suryavaddiraju/irctc-api/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/suryavaddiraju/irctc-api)](https://github.com/suryavaddiraju/irctc-api)
 [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/suryavaddiraju/irctc-api/node.js.yml)](https://github.com/suryavaddiraju/irctc-api/actions/workflows/node.js.yml)
